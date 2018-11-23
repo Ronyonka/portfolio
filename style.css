@@ -26,6 +26,7 @@ p {
   float: right;
   background-color: #000;
   border: 10px solid #800020;
+  border-radius: 30px;
 }
 .aboutme {
   width: 50%;
@@ -33,10 +34,12 @@ p {
   background-color: #000;
   padding-top: 20px;
   border: 10px solid #800020;
+  border-radius: 30px;
 }
 .images {
   width: 50%;
   float: right;
   background-color: #000;
   border: 10px solid #800020;
+  border-radius: 30px;
 }
