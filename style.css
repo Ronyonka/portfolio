@@ -9,6 +9,9 @@ h2 {
 }
 body {
   background-color: #800020;
+  background-image: url("burgundy.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 p {
     color: 	#A9A9A9;
