@@ -43,7 +43,7 @@ p {
   border-radius: 30px;
 }
 .images {
-  background-image: url("img/me.jpg");
+  background-image: url("../img/me.jpg");
   width: 50%;
   height: auto;
   float: right;
