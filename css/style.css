@@ -63,9 +63,9 @@ img {
 button{
   background-color: #960018;
   border: none;
+  text-align: center;
 }
 a{
   text-decoration: none;
-  font-weight: bold;
   color: #a9a9a9;
 }
