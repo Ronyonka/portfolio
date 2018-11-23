@@ -60,3 +60,12 @@ img {
   width: 200px;
   border-radius: 30px;
 }
+button{
+  background-color: #960018;
+  border: none;
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: #a9a9a9;
+}
