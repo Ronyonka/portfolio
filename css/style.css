@@ -9,7 +9,7 @@ h2 {
 }
 body {
   background-color: #800020;
-  background-image: url("../img/burgundy.jpg");
+/*  background-image: url("../img/burgundy.jpg");*/
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -29,7 +29,7 @@ p {
   height: auto;
   float: right;
   background-color: #000;
-  border: 10px transparent #000;
+  border: 10px solid #800020;
   border-radius: 30px;
   padding: 20px 20px;
 }
@@ -38,6 +38,7 @@ p {
   height: auto;
   float: left;
   background-color: #000;
+  border: 10px solid #800020;
   padding: 20px 20px;
   border: 10px;
   border-radius: 30px;
@@ -48,7 +49,7 @@ p {
   height: auto;
   float: right;
   background-color: #000;
-  border: 10px solid #000;
+  border: 10px solid #800020;
   border-radius: 30px;
   padding: 20px 20px;
 }
