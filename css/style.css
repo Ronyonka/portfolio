@@ -9,7 +9,7 @@ h2 {
 }
 body {
   background-color: #800020;
-  background-image: url("burgundy.jpg");
+  background-image: url("../img/burgundy.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
