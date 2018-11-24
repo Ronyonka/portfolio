@@ -49,21 +49,8 @@ p {
   border: 10px;
   border-radius: 30px;
 }
-.images {
-  background-image: url("../img/me.jpg");
-  width: 50%;
-  height: auto;
-  float: right;
-  background-color: #000;
-  border: 10px solid #800020;
-  border-radius: 30px;
-  padding: 20px 20px;
-}
-img {
-  float: left;
-  width: 200px;
-  border-radius: 30px;
-}
+
+
 button{
   background-color: #960018;
   border: none;
