@@ -29,6 +29,9 @@ button{
  background-color: #960018;
  border: none;
  text-align: center;
+ font-weight: bold;
+ height: 30px;
+ width: auto;
 }
 h1 {
  color: #C0C0C0;
@@ -71,8 +74,8 @@ span {
   color: #800020;
 }
 a:hover {
-    color: yellow;
+    color: #800020;
 }
 #link:hover{
-  color: blue;
+  color: #A9A9A9;
 }
