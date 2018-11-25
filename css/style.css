@@ -76,6 +76,6 @@ span {
 a:hover {
     color: #800020;
 }
-#link:hover{
-  color: #A9A9A9;
+.link:hover{
+  color: #fff;
 }
