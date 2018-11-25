@@ -41,6 +41,9 @@ nav {
   color: 	#A9A9A9;
   border-radius: 30px;
 }
+li {
+  list-style: none;
+}
 .portfolio {
   width: 60%;
   height: auto;
