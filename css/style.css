@@ -69,3 +69,9 @@ img{
 span {
   color: #800020;
 }
+a:hover {
+    color: yellow;
+}
+#link:hover{
+  color: blue;
+}
