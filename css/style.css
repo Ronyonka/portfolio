@@ -18,6 +18,7 @@ body {
 /*  background-image: url("../img/burgundy.jpg");*/
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: Arial;
 }
 p {
     color: 	#A9A9A9;
