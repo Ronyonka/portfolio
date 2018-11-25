@@ -33,9 +33,16 @@ p {
   width: 100%;
   text-align: center;
 }
-
+nav {
+  float: left;
+  width: 35%;
+  background-color: #000;
+  border: 10px solid #800020;
+  color: 	#A9A9A9;
+  border-radius: 30px;
+}
 .portfolio {
-  width: 50%;
+  width: 60%;
   height: auto;
   float: right;
   background-color: #000;
@@ -44,9 +51,9 @@ p {
   padding: 20px 20px;
 }
 .aboutme {
-  width: 50%;
+  width: 60%;
   height: auto;
-  float: left;
+  float: right;
   background-color: #000;
   border: 10px solid #800020;
   padding: 20px 20px;
