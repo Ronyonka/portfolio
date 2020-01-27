@@ -9,12 +9,12 @@ function NavBar() {
             
             <div>
                 <ul className="nav-links">
-                    <li><a href="#"><strong>Home</strong></a></li>
-                    <li><a href="#"><strong>About</strong></a></li>
-                    <li><a href="#"><strong>Services</strong></a></li>
-                    <li><a href="#"><strong>Projects</strong></a></li>
-                    <li><a href="#"><strong>Blog</strong></a></li>
-                    <li><a href="#"><strong>Contact</strong></a></li>
+                    <li><a href="https://ronyonka.github.io"><strong>Home</strong></a></li>
+                    <li><a href="https://ronyonka.github.io"><strong>About</strong></a></li>
+                    <li><a href="https://ronyonka.github.io"><strong>Services</strong></a></li>
+                    <li><a href="https://ronyonka.github.io"><strong>Projects</strong></a></li>
+                    <li><a href="https://ronyonka.github.io"><strong>Blog</strong></a></li>
+                    <li><a href="https://ronyonka.github.io"><strong>Contact</strong></a></li>
                 </ul>
             </div>
             </header>
